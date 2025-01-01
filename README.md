@@ -1,9 +1,10 @@
 # MyPortfolio
-Personal Portfolio Website
+
+**Personal Portfolio Website**
 
 A visually appealing website showcasing my technical skills, educational background, and project experience.
 
-Features
+**#Features**
 
 - Responsive design
 - Navigation menu
@@ -11,18 +12,18 @@ Features
 - Project showcase with images, descriptions, and links
 - Downloadable resume and contact information
 
-Technologies Used
+**#Technologies Used**
 
 - HTML
 - CSS
 - JavaScript
 
-Getting Started
+**#Getting Started**
 
 1. Clone the repository
 2. Open index.html in a web browser
 
-Contact
+**#Contact**
 
 Mail me : sindhubussa03@gmail.com
 LinkedIn : https://www.linkedin.com/in/sindhuja-bussa-845418227
